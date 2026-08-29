@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>KIZILELMA MU'NUN UYANIŞI - İnteraktif Çizgi Roman</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <header class="comic-header">
+            <h1>KIZILELMA MU'NUN UYANIŞI</h1>
+            <p class="subtitle">Bölüm 1: Mistik Bağ ve Kampüs Günleri</p>
+        </header>
+
+        <nav class="comic-nav">
+            <button id="prevBtn" class="nav-btn">← ÖNCEKİ SAYFA</button>
+            <span id="pageCounter">SAYFA 1</span>
+            <button id="nextBtn" class="nav-btn">SONRAKI SAYFA →</button>
+        </nav>
+
+        <div class="comic-page" id="comicPage">
+            <!-- Panel'ler buraya yüklenecek -->
+        </div>
+
+        <div class="controls">
+            <label>
+                <input type="range" id="zoomSlider" min="50" max="200" value="100">
+                ZOOM: <span id="zoomValue">100</span>%
+            </label>
+        </div>
+
+        <footer class="comic-footer">
+            <p>© 2026 KIZILELMA MU'NUN UYANIŞI | Türk Çizgi Roman | Interactive Comic Series</p>
+            <p>Senaryo ve Tasarım | Yapay Zeka ile Görseller</p>
+        </footer>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
