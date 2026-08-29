@@ -1,0 +1,283 @@
+{
+  "title": "KIZILELMA MU'NUN UYANIŞI - Bölüm 1",
+  "subtitle": "Mistik Bağ ve Kampüs Günleri",
+  "total_pages": 24,
+  "total_panels": 144,
+  "pages": [
+    {
+      "page": 1,
+      "title": "KANLI GEÇMİŞ",
+      "panels": 6,
+      "panels_data": [
+        {
+          "panel": 1,
+          "image": "images/page1_panel1.jpg",
+          "characters": [],
+          "location": "Doğu Köyü - Yağmurlu Gece",
+          "dialogue": [],
+          "sound_effects": ["GÜMMM!", "GÜMMM!"],
+          "description": "Sağanak yağmur altında Doğu'da ıssız bir köy evi. Pencerelerden vuran silah sesleri."
+        },
+        {
+          "panel": 2,
+          "image": "images/page1_panel2.jpg",
+          "characters": ["Uras (Çocuk)", "Anne", "Baba"],
+          "location": "Köy Evi - İç Mekan",
+          "dialogue": [{"speaker": "BABA", "text": "Sakın çıkmayın dışarı!"}],
+          "sound_effects": [],
+          "description": "İçeride: Küçük Uras annesinin kucağında titriyor. Babası tüfekle kapıyı tutuyor. Yüzünde çaresizlik ve öfke."
+        },
+        {
+          "panel": 3,
+          "image": "images/page1_panel3.jpg",
+          "characters": [],
+          "location": "Köy Evi - Kapı",
+          "dialogue": [],
+          "sound_effects": ["GÜMMM!"],
+          "description": "Kapı kırılıyor. Maskeli adamlar içeri dalıyor."
+        },
+        {
+          "panel": 4,
+          "image": "images/page1_panel4.jpg",
+          "characters": ["Baba"],
+          "location": "Köy Evi - İç Mekan",
+          "dialogue": [],
+          "sound_effects": ["PAT!", "PAT!", "PAT!"],
+          "description": "Yakın Plan: Babanın vurulup yere düşüşü."
+        },
+        {
+          "panel": 5,
+          "image": "images/page1_panel5.jpg",
+          "characters": ["Uras (Çocuk)", "Anne"],
+          "location": "Köy Evi - İç Mekan",
+          "dialogue": [{"speaker": "İÇ SES URAS", "text": "Soğuk... Her şey çok soğuk..."}],
+          "sound_effects": [],
+          "description": "Anne, Uras'ın üzerine siper oluyor. Kurşunlar anneyi delip Uras'ın göğsüne saplanıyor. Ekran kararıyor."
+        },
+        {
+          "panel": 6,
+          "image": "images/page1_panel6.jpg",
+          "characters": ["Uras (Çocuk)"],
+          "location": "Köy Evi - İç Mekan",
+          "dialogue": [],
+          "sound_effects": [],
+          "description": "Uras'ın kanlar içinde yere serildiği son kare. Sessiz panel."
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "title": "ÖLÜMÜN EŞİĞİ",
+      "panels": 6,
+      "panels_data": [
+        {
+          "panel": 1,
+          "image": "images/page2_panel1.jpg",
+          "characters": ["Uras (Çocuk)"],
+          "location": "Hastane - ICU Odası",
+          "dialogue": [],
+          "sound_effects": ["Biiip...", "Biiip...", "Biiiiiiip"],
+          "description": "Bembeyaz steril hastane odası. Monitör yavaşça düzleşiyor."
+        },
+        {
+          "panel": 2,
+          "image": "images/page2_panel2.jpg",
+          "characters": ["Başhekim", "Hemşireler"],
+          "location": "Hastane - ICU Odası",
+          "dialogue": [{"speaker": "BAŞHEKIM", "text": "Ailesini kaybettiğimiz yetmiyormuş gibi bu çocuk da gidiyor... Vücudundaki mermiler hayati organları darmadağın etmiş. Yaşamaz... Tıbben imkansız!"}],
+          "sound_effects": [],
+          "description": "Başhekim umutsuzca konuşuyor."
+        },
+        {
+          "panel": 3,
+          "image": "images/page2_panel3.jpg",
+          "characters": [],
+          "location": "Hastane - ICU Odası",
+          "dialogue": [],
+          "sound_effects": ["BİİİİİİP"],
+          "description": "Monitördeki çizgi tamamen düzleşiyor."
+        },
+        {
+          "panel": 4,
+          "image": "images/page2_panel4.jpg",
+          "characters": ["Başhekim", "Hemşireler"],
+          "location": "Hastane - ICU Odası",
+          "dialogue": [],
+          "sound_effects": [],
+          "description": "Doktorlar başlarını eğiyor, hemşireler gözyaşlarını tutuyor. Sessiz panel."
+        },
+        {
+          "panel": 5,
+          "image": "images/page2_panel5.jpg",
+          "characters": ["Uras (Çocuk)"],
+          "location": "Hastane - İçeriden Dışarı",
+          "dialogue": [],
+          "sound_effects": [],
+          "description": "Uras'ın ruhu bedeninden ayrılıyormuş gibi bir his. Çizgiler bulanıklaşıyor. Geçiş paneli."
+        },
+        {
+          "panel": 6,
+          "image": "images/page2_panel6.jpg",
+          "characters": [],
+          "location": "Karanlık Void",
+          "dialogue": [],
+          "sound_effects": [],
+          "description": "Yerini koyu bir sis ve karartan ekran alıyor."
+        }
+      ]
+    },
+    {
+      "page": 7,
+      "title": "SPLASH PAGE - MUCİZE UYANIŞ",
+      "panels": 1,
+      "is_splash": true,
+      "panels_data": [
+        {
+          "panel": 1,
+          "image": "images/page7_splash.jpg",
+          "characters": ["Uras (Çocuk)", "Başhekim"],
+          "location": "Hastane - ICU Odası",
+          "dialogue": [{"speaker": "BAŞHEKIM", "text": "Yaşıyor... Bu imkansız! Sen ne tür bir şeysin, küçük adam?"}],
+          "sound_effects": ["BİP!", "BİP!", "BİP!"],
+          "description": "Boy gasping awake in hospital bed, chest heaving, heart monitor beeping strongly. Uras grows from child to young man silhouette. Time passing montage effect."
+        }
+      ]
+    },
+    {
+      "page": 8,
+      "title": "YEMEKHANE",
+      "panels": 6,
+      "panels_data": [
+        {
+          "panel": 1,
+          "image": "images/page8_panel1.jpg",
+          "characters": ["Uras (Yetişkin)"],
+          "location": "Üniversite Yemekhane",
+          "dialogue": [],
+          "sound_effects": ["TİK...", "TAK..."],
+          "description": "Kalabalık yemekhane. Uras duvardaki saate kilitlenmiş."
+        },
+        {
+          "panel": 2,
+          "image": "images/page8_panel2.jpg",
+          "characters": ["Uras (Yetişkin)"],
+          "location": "Uras'ın Zihni - Karanlık Bozkır",
+          "dialogue": [{"speaker": "İÇ SES URAS", "text": "Her saniye bir kaçış... Ya da bir yaklaşma."}],
+          "sound_effects": [],
+          "description": "Uras'ın zihninde o karanlık orman ve yaratık canlanıyor."
+        },
+        {
+          "panel": 3,
+          "image": "images/page8_panel3.jpg",
+          "characters": ["Uras (Yetişkin)", "Alişan"],
+          "location": "Üniversite Yemekhane",
+          "dialogue": [{"speaker": "ALIŞAN", "text": "Oğlum, arkana bakma ama kız direkt buraya geliyor... O Yağız denen belalı herifin sevgilisiyle başımızı belaya sokmak istemeyiz."}],
+          "sound_effects": [],
+          "description": "Alişan Uras'ı dürtüyor."
+        },
+        {
+          "panel": 4,
+          "image": "images/page8_panel4.jpg",
+          "characters": ["Deren"],
+          "location": "Üniversite Yemekhane",
+          "dialogue": [],
+          "sound_effects": [],
+          "description": "Deren masaya yaklaşıyor, gölgesi Uras'ın üzerine düşüyor."
+        },
+        {
+          "panel": 5,
+          "image": "images/page8_panel5.jpg",
+          "characters": ["Deren"],
+          "location": "Üniversite Yemekhane",
+          "dialogue": [],
+          "sound_effects": [],
+          "description": "Deren tam tepesinde, gülümsüyor."
+        },
+        {
+          "panel": 6,
+          "image": "images/page8_panel6.jpg",
+          "characters": ["Uras (Yetişkin)"],
+          "location": "Üniversite Yemekhane",
+          "dialogue": [],
+          "sound_effects": [],
+          "description": "Uras'ın gözleri büyüyor. Şaşkınlık."
+        }
+      ]
+    },
+    {
+      "page": 9,
+      "title": "YEMEKHANE REPLİKLERİ",
+      "panels": 6,
+      "panels_data": [
+        {"panel": 1, "image": "images/page9_panel1.jpg", "characters": ["Deren"], "dialogue": [{"speaker": "DEREN", "text": "Çok mu etkilendin benden?"}]},
+        {"panel": 2, "image": "images/page9_panel2.jpg", "characters": ["Uras (Yetişkin)"], "dialogue": [{"speaker": "URAS", "text": "Hı? Hayır... Şey, sen Yağız'ın sevgilisisin. Sadece arkandaki saate bakıyordum."}]},
+        {"panel": 3, "image": "images/page9_panel3.jpg", "characters": ["Deren"], "dialogue": [{"speaker": "DEREN", "text": "Çok ilginç birisin. Ama benden hoşlandığını biliyorum."}]},
+        {"panel": 4, "image": "images/page9_panel4.jpg", "characters": ["Uras (Yetişkin)"], "dialogue": [], "description": "Uras'ın yanakları kızarıyor, avuçları terliyor."},
+        {"panel": 5, "image": "images/page9_panel5.jpg", "characters": ["Deren"], "dialogue": [{"speaker": "DEREN", "text": "Bu arada, Yağız benim sevgilim falan değil! O sadece kendini beğenmiş, olgunlaşmamış bir çocuk!"}]},
+        {"panel": 6, "image": "images/page9_panel6.jpg", "characters": ["Alişan"], "dialogue": [], "description": "Yemekhane buz kesiyor. Alişan'ın yüzü: 'Eyvah ki ne eyvah...'"}
+      ]
+    },
+    {
+      "page": 10,
+      "title": "KÜTÜPHANE VE ÖFKE",
+      "panels": 6,
+      "panels_data": [
+        {"panel": 1, "image": "images/page10_panel1.jpg", "characters": ["Uras (Yetişkin)"], "location": "Üniversite Kütüphanesi - 5. Kat"},
+        {"panel": 2, "image": "images/page10_panel2.jpg", "characters": ["Yağız", "Alişan"], "location": "Üniversite Avlu"},
+        {"panel": 3, "image": "images/page10_panel3.jpg", "characters": ["Uras (Yetişkin)"], "description": "Uras'ın gözleri kısılıyor. İçindeki öfke dalgası tavan yapıyor."},
+        {"panel": 4, "image": "images/page10_panel4.jpg", "characters": ["Uras (Yetişkin)"], "description": "Uras düşünmeden pencereyi açıp havalandırma borusuna tutunuyor."},
+        {"panel": 5, "image": "images/page10_panel5.jpg", "characters": ["Uras (Yetişkin)"], "description": "Dışarı, 5 kat aşağıya bakıyor. Ama korku yok."},
+        {"panel": 6, "image": "images/page10_panel6.jpg", "characters": ["Uras (Yetişkin)"], "sound_effects": ["VUUUŞŞ!"], "description": "Uras kendini boşluğa bırakıyor."}
+      ]
+    },
+    {
+      "page": 24,
+      "title": "HİBRİT FİNAL - ULUDAĞ'A DOĞRU",
+      "panels": 5,
+      "panels_data": [
+        {
+          "panel": 1,
+          "image": "images/page24_panel1.jpg",
+          "characters": ["Maya", "Yağız", "Deren"],
+          "location": "Kayak Tesisi",
+          "dialogue": [{"speaker": "MAYA", "text": "Herhangi bir kızın sana bakabileceğini nasıl düşünebilirsin ki?"}],
+          "description": "Maya, yerdeki Yağız'a dönüyor. Deren zihinsel fısıltı yapıyor: 'Maya... Artık bunu kes!'"
+        },
+        {
+          "panel": 2,
+          "image": "images/page24_panel2.jpg",
+          "characters": [],
+          "location": "Üniversite Giriş - Gece",
+          "dialogue": [],
+          "description": "Büyük bir tur otobüsü. Öğrenciler valizlerini yüklüyor."
+        },
+        {
+          "panel": 3,
+          "image": "images/page24_panel3.jpg",
+          "characters": ["Uras (Yetişkin)", "Alişan", "Deren"],
+          "location": "Otobüs Kapısı",
+          "dialogue": [],
+          "description": "Uras ve Alişan otobüse doğru yürür. Deren ile göz göze gelirler. Deren hafifçe gülümser."
+        },
+        {
+          "panel": 4,
+          "image": "images/page24_panel4.jpg",
+          "characters": ["Uras (Yetişkin)"],
+          "location": "Otobüs - İç Mekan",
+          "dialogue": [],
+          "sound_effects": ["GÜM-GÜM!"],
+          "description": "Otobüs hareket eder. Uras camdan dışarı, Uludağ'ın zirvelerine doğru bakar. Dağın tepesinde karanlık sis siluetleri ve iki parlayan kırmızı göz belirmektedir. Uras'ın göğsündeki eski yara izi hafifçe sızar."
+        },
+        {
+          "panel": 5,
+          "image": "images/page24_panel5.jpg",
+          "characters": [],
+          "location": "Uludağ - Tepe",
+          "dialogue": [],
+          "sound_effects": [],
+          "description": "Altyazı Kutusu: 'Sislerin ardında, zamanın bile durduğu yerde... Onları büyük bir hesaplaşma bekliyordu.' BÖLÜM 1 SONU"
+        }
+      ]
+    }
+  ]
+}
